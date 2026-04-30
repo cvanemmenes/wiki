@@ -7,8 +7,7 @@ Self‑Service is part of the SimplePay app. It lets you download your payslips 
 ## 👉 How-To Guides
 
 > **Some of these options may not be available on the app**
-> 
-    Your employer decides which Self‑Service features you can use. This means you may not see all options in the app (for example, Claims). If a menu option is missing, it is not switched     on for your company. Please ask your payroll administrator for more details.
+> Your employer decides which Self‑Service features you can use. This means you may not see all options in the app (for example, Claims). If a menu option is missing, it is not switched     on for your company. Please ask your payroll administrator for more details.
 
 ### Getting started
 - [[Activate your Self-Service profile]]
