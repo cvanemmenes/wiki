@@ -1,13 +1,13 @@
 # Welcome to Employee Self-Service!
 
-## 📚 What is Employee Self-Service?
+## 📚 What is Self-Service?
 
-Self-Service is an App in SimplePay where you can help yourself. You can see and download your payslips and tax certificates, check your leave, and send requests (like leave or claims) without asking your payroll administrator.
+Self‑Service is part of the SimplePay app. It lets you download your payslips and tax certificates, check your leave, and send requests (like leave or claims) without asking your payroll administrator.
 
 ## 👉 How-To Guides
 
 !!! note "Some of these options may not be available on the app"
-    Your employer decides which Self‑Service features you can use. This means you may not see all options in the app (for example, Claims). If a menu option is missing, it is not switched on for your company. Please ask your payroll administrator for more details.
+    Your employer decides which Self‑Service features you can use. This means you may not see all options in the app (for example, Claims). If a menu option is missing, it is not switched     on for your company. Please ask your payroll administrator for more details.
 
 ### Getting started
 - [[Activate your Self-Service profile]]
