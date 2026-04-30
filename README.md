@@ -12,12 +12,12 @@ Self‑Service is part of the SimplePay app. It lets you download your payslips 
 ### Getting started
 - Activate your Self-Service profile
 - Install and log into the SimplePay App
+### Payslips and tax certificates
+- View and download payslips
+- View and download tax certificates
 ### Leave
 - Request leave
 - View leave balances
 - View the leave calendar
-### Payslips and tax certificates
-- View and download payslips
-- View and download tax certificates
 ### Claims
 - Submit a claim request
